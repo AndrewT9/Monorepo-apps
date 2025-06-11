@@ -1,0 +1,9 @@
+{
+  "name": "plain-html",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/plain-html/src",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project plain-html --web",
+  "targets": {}
+}
