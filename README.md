@@ -8,7 +8,7 @@ This repository contains two front-end applications and a set of shared UI compo
 
 # 🗂️ Project Structure
 
-.
+<details> <summary>Example</summary>
 ├── apps
 │ ├── angular-app # Angular 19 application
 │ └── plain-html # Static HTML/JS app (Vite)
@@ -21,6 +21,7 @@ This repository contains two front-end applications and a set of shared UI compo
 ├── package.json
 ├── tsconfig.base.json
 └── workspace.json
+</details>
 
 - apps/angular-app – full Angular project (uses @angular-devkit, Router, RxJS, etc.).
 - apps/plain-html – lightweight HTML + JavaScript, built with Vite (uses Lit for web-components).
