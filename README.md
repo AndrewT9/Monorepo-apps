@@ -9,18 +9,18 @@ This repository contains two front-end applications and a set of shared UI compo
 # 🗂️ Project Structure
 
 <details> <summary>Example</summary>
-├── apps
-│ ├── angular-app # Angular 19 application
-│ └── plain-html # Static HTML/JS app (Vite)
-│
-├── libs
-│ └── shared-component # Reusable UI library (Lit/Web Components)
-│
-├── node_modules
-├── nx.json
-├── package.json
-├── tsconfig.base.json
-└── workspace.json
+├── apps <br/>
+│ ├── angular-app # Angular 19 application<br/>
+│ └── plain-html # Static HTML/JS app (Vite)<br/>
+│<br/>
+├── libs<br/>
+│ └── shared-component # Reusable UI library (Lit/Web Components)<br/>
+│<br/>
+├── node_modules<br/>
+├── nx.json<br/>
+├── package.json<br/>
+├── tsconfig.base.json<br/>
+└── workspace.json<br/>
 </details>
 
 - apps/angular-app – full Angular project (uses @angular-devkit, Router, RxJS, etc.).
